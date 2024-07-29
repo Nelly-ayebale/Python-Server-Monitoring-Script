@@ -12,7 +12,7 @@ def email_alert(subject, body, to):
 
     gmail_user = os.getenv("GMAIL_USER")
     gmail_password = os.getenv("GMAIL_PASSWORD")
-
+    
     print(f"GMAIL_USER: {gmail_user}")
     print(f"GMAIL_PASSWORD: {gmail_password}")
 

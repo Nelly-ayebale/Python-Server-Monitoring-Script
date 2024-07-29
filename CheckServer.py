@@ -75,7 +75,7 @@ if __name__ == "__main__":
             Server("reddit.com", 80, "plain", "high"),
             Server("msn.com", 80, "plain", "high"),
             Server("smtp.gmail.com", 465, "ssl", "high"),
-            Server("192.168.1.164", 80, "plain", "high"),
+            Server("192.168.1.164", 80, "plain", "low"),
         ]
 
     for server in servers:
