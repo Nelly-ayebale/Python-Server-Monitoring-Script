@@ -89,5 +89,4 @@ if __name__ == "__main__":
 
 ### Author
 
-- **Your Name**
 - ayebalenelly26@gmail.com
